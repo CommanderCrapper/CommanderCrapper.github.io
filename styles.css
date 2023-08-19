@@ -11,3 +11,7 @@ body {
     background-image: url('clouds.png');
     background-size: 100% auto;
 }
+
+.neofetch {
+    background-color: rgba(0,0,0,0.5);
+}
