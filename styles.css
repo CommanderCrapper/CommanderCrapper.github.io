@@ -15,3 +15,14 @@ body {
 .neofetch {
     background-color: rgba(0,0,0,0.5);
 }
+
+.fuck {
+    background-image: url(fileExplorers.png);
+    width:500px;
+    height:500px;
+}
+
+.fuck {
+    padding-left: 400px;
+    padding-top: 250px;
+}
