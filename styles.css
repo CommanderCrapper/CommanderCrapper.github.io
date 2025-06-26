@@ -12,10 +12,6 @@ body {
     background-size: 100% auto;
 }
 
-.neofetch {
-    background-color: rgba(0,0,0,0.5);
-}
-
 .fuck {
     background-image: url(fileExplorers.png);
     width:565px;
