@@ -8,8 +8,8 @@
             "type": "firefox",
             "request": "launch",
             "name": "Open main.html",
-            "file": "/home/sn0wblum/Desktop/code_stuff/Crapnet/CrapzoneWebsite/",
-            "firefoxExecutable": "/usr/bin/firefox/"
+            "file": "/home/sn0wblum/Desktop/code/Crapnet/CrapzoneWebsite/",
+            "firefoxExecutable": "firefox"
         }
     ]
 }
