@@ -1,6 +1,6 @@
 .box {
 margin: 20px auto 10px auto;
-    text-align: left;
+    text-align: center;
     width: auto;
     max-width: 768px;
     padding: 5px 20px 5px 20px;
@@ -9,13 +9,18 @@ margin: 20px auto 10px auto;
 
 body {
     background-image: url('clouds.png');
+    background-position: center;
     background-size: 100% auto;
+    align-content: center;
+    text-align: center;
 }
 
 .files {
     background-image: url(fileExplorers.png);
+    background-position: center;
     width:565px;
     height:475px;
+    text-align: center;
 }
 
 .files {
