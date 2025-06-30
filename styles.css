@@ -18,3 +18,9 @@ body {
     padding-left: 240px;
     padding-top: 150px;
 }
+
+#bin {
+    float: right;
+    height: 65px;
+    width: 90px;
+}

@@ -1,8 +1,13 @@
 body {
-    background-image: url("new_XP.png");
+    background-image: url('clouds.png');
     background-position: center;
     background-size: 100% auto;
     align-content: center;
     text-align: center;
 }
 
+#bin {
+    float: right;
+    height: 65px;
+    width: 90px;
+}
