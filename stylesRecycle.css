@@ -5,7 +5,25 @@
     width:865px;
     height:475px;
 }
-
+/* 
 img {
     
+} */
+
+body {
+    background-image:url('new_XP.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#bin {
+    float: right;
+    height: 65px;
+    width: 90px;
+}
+
+#back {
+    float: right;
+    height: 110px;
+    width: 90px;
 }
