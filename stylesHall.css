@@ -2,3 +2,24 @@
     width: 170px;
     height: 170px;
 }
+
+#back {
+    float: right;
+    height: 110px;
+    width: 90px;
+}
+
+body {
+    background-color: black;
+    background-image: url('redcarpet.png');
+    background-size: 100% auto;
+}
+
+
+table {
+    color: rgb(232, 248, 0);
+}
+
+a {
+    color: rgb(232,248,0);
+}
