@@ -23,3 +23,9 @@ table {
 a {
     color: rgb(232,248,0);
 }
+
+#bin {
+    float: right;
+    height: 65px;
+    width: 90px;
+}
