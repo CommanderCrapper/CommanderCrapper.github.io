@@ -1,0 +1,32 @@
+#me {
+    width: 160px;
+    height: 160px;
+}
+
+#korok {
+    width: 160px;
+    height: 160px;
+}
+
+#TBA {
+    width: 160px;
+    height: 160px;
+}
+
+#everyone {
+    width: 160px;
+    height: 160px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-image: url('../misc/clouds.png');
+    background-position: center;
+    background-size: 100% auto;
+    align-content: center;
+    text-align: center;
+}
