@@ -1,0 +1,26 @@
+body {
+    background-color: lightskyblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.whoamI {
+    color: crimson;
+    text-shadow: -2px -2px black;
+}
+
+.Interests {
+    color: olive;
+    text-shadow: -2px -2px black;
+}
+
+.Goals {
+    color: orange;
+    text-shadow: -2px -2px black;
+}
+
+p {
+    background:rgba(128, 128, 128, 0.4);
+    color: black;
+    text-align: center;
+    border-radius: 15px;
+}

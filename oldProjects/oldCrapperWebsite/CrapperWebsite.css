@@ -1,0 +1,61 @@
+a {
+    text-align: center;
+}
+
+/* Test all of this to see if you need to specify anything in terms of links & whatnot
+    a:link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+  
+//  visited link 
+  a:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+  
+// mouse over link
+  a:hover {
+    color: rgb(0, 0, 0);
+  }
+  
+// selected link
+  a:active {
+    color: rgb(128, 128, 128);
+  }
+*/
+.title {
+    width: 200;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+    background:lightskyblue;
+}
+
+@keyframes bgColorSwap {
+    0% {background-color: grey;}
+    25%{background-color: red;}
+    50%{background-color: blue;}
+    75%{background-color: green;}
+    100%{background-color: yellow;}
+}
+
+.box {
+    margin: auto;
+    text-align: left;
+    width: auto;
+    max-width: 768px;
+    border: 10px outset black;
+    color:white;
+    animation-name: bgColorSwap;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+}
+
+#box {animation-timing-function: ease-in-out;}
+
+p {
+    text-align: center;
+}

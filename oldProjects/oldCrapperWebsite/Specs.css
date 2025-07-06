@@ -1,0 +1,10 @@
+.PCspecs {
+    color:burlywood;
+    text-shadow -2px -2px black;
+}
+
+body {
+    background: green;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}

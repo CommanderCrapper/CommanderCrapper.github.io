@@ -1,5 +1,5 @@
 body {
-    background-image: url('clouds.png');
+    background-image: url('../misc/clouds.png');
     background-position: center;
     background-size: 100% auto;
     align-content: center;
@@ -7,7 +7,7 @@ body {
 }
 
 .files {
-    background-image: url(fileExplorers.png);
+    background-image: url('fileExplorers.png');
     background-position: center;
     width:565px;
     height:475px;
