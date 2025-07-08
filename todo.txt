@@ -4,9 +4,9 @@ LIST OF SHIT I STILL NEED TO DO:
 2. Add list of credits to people who also had a part in making the website (mudsock, all the artists that made my PFPs, etc.) (FINISHED, JUST NEED TO MAKE PAGE LOOK NICER)
 3. Fix weird warping of "About Me!" window on the about me section (FINISHED)
 4. Maybe link to github? Or socials?
-5. Replace all placeholder copyrighted imagery with different, non-copyrighted photos
-6. Once everything is finished, upload code to neocities, test it out to make sure neocities doesn't screw anything up
-7. Replace all the fonts so they don't look like shit lmao
+5. Replace all placeholder copyrighted imagery with different, non-copyrighted photos (FINISHED? STILL NEED TO REPLACE INTRO MUSIC WITH SMTH ORIGINAL)
+6. Replace all the fonts so they fit the aesthetic more
+7. Once everything is finished, upload code to neocities, test it out to make sure neocities doesn't screw anything up
 
 --BONUS--
 8. Once everything is done, learn react & implement actual stuff into it.
