@@ -24,7 +24,7 @@ table {
 }
 
 body {
-    background-image: url('../test/cliffside.jpg');
+    background-image: url('clouds.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% stretch;
