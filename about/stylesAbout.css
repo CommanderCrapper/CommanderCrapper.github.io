@@ -6,6 +6,11 @@ body {
     text-align: center;
 }
 
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(17, 63, 214);
+}
+
 #bin {
     float: right;
     height: 65px;
