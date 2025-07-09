@@ -1,11 +1,11 @@
 LIST OF SHIT I STILL NEED TO DO:
 
 1. Figure out why the audio hasn't been working this entire time, & a way to fix it
-2. Add list of credits to people who also had a part in making the website (mudsock, all the artists that made my PFPs, etc.) (FINISHED, JUST NEED TO MAKE PAGE LOOK NICER)
+2. Add list of credits to people who also had a part in making the website (mudsock, all the artists that made my PFPs, etc.) (FINISHED)
 3. Fix weird warping of "About Me!" window on the about me section (FINISHED)
-4. Maybe link to github? Or socials?
+4. Maybe link to github? Or socials? (What would be a REALLY cool idea is to do it as buttons on the main page)
 5. Replace all placeholder copyrighted imagery with different, non-copyrighted photos (FINISHED? STILL NEED TO REPLACE INTRO MUSIC WITH SMTH ORIGINAL)
-6. Replace all the fonts so they fit the aesthetic more
+6. Replace all the fonts so they fit the aesthetic more (meh)
 7. Once everything is finished, upload code to neocities, test it out to make sure neocities doesn't screw anything up
 
 --BONUS--
