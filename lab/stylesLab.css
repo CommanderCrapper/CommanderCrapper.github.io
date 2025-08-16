@@ -3,3 +3,10 @@
     height: 65px;
     width: 90px;
 }
+
+section {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 40px;
+    align-items: start;
+}
