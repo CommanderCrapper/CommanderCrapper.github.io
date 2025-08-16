@@ -3,12 +3,6 @@
     height: 170px;
 }
 
-#back {
-    float: right;
-    height: 110px;
-    width: 90px;
-}
-
 body {
     background-color: black;
     background-image: url('redcarpet.png');
@@ -23,6 +17,12 @@ table {
 
 a {
     color: rgb(232,248,0);
+}
+
+#back {
+    float: right;
+    height: 110px;
+    width: 90px;
 }
 
 #bin {
