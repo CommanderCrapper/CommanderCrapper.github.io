@@ -9,4 +9,9 @@ main {
     grid-template-columns: 300px 1fr;
     gap: 40px;
     align-items: start;
+    border: 1024px;
+}
+
+* {
+    box-sizing: border-box;   
 }
