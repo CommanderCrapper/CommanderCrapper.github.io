@@ -4,12 +4,18 @@
     width: 90px;
 }
 
+nav {
+    align-items: center;
+    /* font-size: idk, experiment here */
+    /* probably should add padding to make it cast down a bit further */
+}
+
 .testing {
     display: grid;
     grid-template-columns: 300px 1fr;
     gap: 40px;
     align-items: start;
-    border: 1024px;
+    border: 512px;
 }
 
 * {
