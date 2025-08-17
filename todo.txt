@@ -17,3 +17,4 @@ OK NEW TODO LIST LESSGO
 
 1. Add more items to the list
 2. Add a little note that clarifies that this website is best experienced on PC, mobile & handheld devices are not accounted for
+3. Ok something cool I just thought of, it'd be really neat to have a windows XP-styled loading screen with a custom logo for the website
