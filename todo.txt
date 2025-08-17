@@ -10,3 +10,10 @@ LIST OF SHIT I STILL NEED TO DO:
 
 --BONUS--
 8. Once everything is done, learn react & implement actual stuff into it.
+
+
+
+OK NEW TODO LIST LESSGO
+
+1. Add more items to the list
+2. Add a little note that clarifies that this website is best experienced on PC, mobile & handheld devices are not accounted for
