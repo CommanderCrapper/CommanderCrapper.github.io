@@ -19,3 +19,5 @@ OK NEW TODO LIST LESSGO
 2. Add a little note that clarifies that this website is best experienced on PC, mobile & handheld devices are not accounted for
 3. Ok something cool I just thought of, it'd be really neat to have a windows XP-styled loading screen with a custom logo for the website
 if i'm gonna do this idea I need to make sure there's some sort of check that it's the first time someone's loading the main page, bc it'd be kinda annoying to wait through a loading screen every single time the main page is loaded; my first thought is there's a ticker that clears on page exit? like, one you close completely out of the tab, it resets back to 0, but once it hits 1 (meaning the page has gone through the initial "boot sequence"), it won't ever show again until the page is refreshed.
+
+4. Eventually, at some point I do want to add a footer that's just an image of the Windows XP taskbar so it doesn't feel as strange; but I'm not sure if that would kinda ruin the immersion? Since the bar would have effectively no functionality
