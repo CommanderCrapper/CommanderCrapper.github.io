@@ -23,10 +23,13 @@ nav {
     box-sizing: border-box;   
 } */
 
-.idkwhattoputhere {
+.container {
     display: grid;
-    grid-template-columns: 300px 1fr;
-    gap: 40px;
-    gap: 40px;
-    border: 512px;
+    grid-template-areas:
+    "header header"
+    "menu content"
+    "footer footer";
+    grid-template-columns: 1fr 3fr;
+    gap: 5px;
+    padding: 20px;
 }
