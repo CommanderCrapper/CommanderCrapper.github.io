@@ -28,6 +28,17 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% stretch;
-    align-content: center;
     text-align: center;
+}
+
+#bin {
+    float: right;
+    height: 65px;
+    width: 90px;
+}
+
+#back {
+    float: right;
+    height: 110px;
+    width: 90px;
 }
