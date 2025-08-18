@@ -22,3 +22,11 @@ nav {
 /* * {
     box-sizing: border-box;   
 } */
+
+.idkwhattoputhere {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 40px;
+    gap: 40px;
+    border: 512px;
+}
