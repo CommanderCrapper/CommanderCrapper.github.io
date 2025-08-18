@@ -9,21 +9,18 @@ nav {
     /* font-size: idk, experiment here */
     padding: 10px 20px;
     position: relative;
+    padding-bottom: 20px;
 }
 
-.testing {
-    display: grid;
-    grid-template-columns: 300px 1fr;
-    gap: 40px;
-    align-items: start;
-    border: 512px;
+.content {
+    padding: 20px;
 }
 
 /* * {
     box-sizing: border-box;   
 } */
 
-/* .container {
+.container {
     display: grid;
     grid-template-areas:
     "header header"
@@ -32,4 +29,4 @@ nav {
     grid-template-columns: 1fr 3fr;
     gap: 5px;
     padding: 20px;
-} */
+}
