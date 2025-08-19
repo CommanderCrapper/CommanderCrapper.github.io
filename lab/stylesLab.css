@@ -13,7 +13,7 @@ nav {
 }
 
 .content {
-    padding: 20px;
+    padding: 15px;
 }
 
 /* * {
@@ -34,7 +34,8 @@ nav {
 .menu {
     text-align: center;
     /* font-family: putsmthinhere; */
-    border: 4px dotted lightskyblue;
+    border: 4px dashed lightskyblue;
+    padding-left: 3px;
 }
 
 .header {
