@@ -33,5 +33,10 @@ nav {
 
 .menu {
     text-align: center;
-    
+    /* font-family: putsmthinhere; */
+    border: 4px dotted lightskyblue;
+}
+
+.header {
+    text-align: center;
 }
